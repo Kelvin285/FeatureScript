@@ -1,8 +1,6 @@
-# FeatureScript
- An API that allows you to create moddable java programs
+FeatureScript (by Kevin)
 =========================
-FeatureScript is an interpreted programming language built on top of Javascript 
-that can interface directly with java code.
+FeatureScript is an interpreted programming language that can interface directly with java code.
 It can be very useful for creating easily moddable content for apps and games written in java.
 =========================
 Limitations
@@ -10,7 +8,6 @@ Limitations
 
 1. Only a single instance of a FeatureScript class can be created at one time.
 2. FeatureScript does not support multi-line commands
-3. FeatureScript functions do not support return types
 
 =========================
 Using FeatureScript
